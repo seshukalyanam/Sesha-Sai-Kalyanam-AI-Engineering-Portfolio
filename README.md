@@ -10,7 +10,7 @@ My work focuses on turning business problems into practical AI systems: from dat
 
 ## 🚀 Professional Experience
 
-### AI Engineer — NCompas Business Solutions Inc. (Client) | Raleigh, NC  
+### AI Engineer - NCompas Business Solutions Inc. (Client) | Raleigh, NC  
 **Jul 2024 – Present**
 
 - Designed and deployed **production-grade Generative AI and LLM systems** using AWS Bedrock, SageMaker, and serverless architectures.
@@ -23,7 +23,7 @@ My work focuses on turning business problems into practical AI systems: from dat
 
 ---
 
-### AI/ML Engineer — Psquare Technologies LLC | New York  
+### AI/ML Engineer - Psquare Technologies LLC | New York  
 **Mar 2024 – Jun 2024**
 
 - Built and refined **LLM-based agentic workflows** and orchestration pipelines.
@@ -33,7 +33,7 @@ My work focuses on turning business problems into practical AI systems: from dat
 
 ---
 
-### Data Engineer — Noor Inc. | India  
+### Data Engineer - Noor Inc. | India  
 **Mar 2021 – Dec 2021**
 
 - Built **Python + SQL-based ETL pipelines** for data ingestion and transformation.
@@ -43,7 +43,7 @@ My work focuses on turning business problems into practical AI systems: from dat
 
 ---
 
-### Data Engineer — Sukshi Deep Focus | India  
+### Data Engineer - Sukshi Deep Focus | India  
 **Jul 2020 – Feb 2021**
 
 - Performed **data preprocessing, transformation, and feature engineering**.
@@ -52,7 +52,7 @@ My work focuses on turning business problems into practical AI systems: from dat
 
 ---
 
-### Data Engineer — Cancri Technologies Pvt Ltd | India  
+### Data Engineer - Cancri Technologies Pvt Ltd | India  
 **Mar 2019 – Jun 2020**
 
 - Developed **Azure + Databricks ETL pipelines** for cloud migration.
