@@ -125,6 +125,30 @@ NLP classification system using transformer models.
 
 ---
 
+### 6. SIA: Voice-Interactive Multi-Agent AI Platform
+Enterprise-grade voice AI platform combining real-time streaming, transcription, and multi-agent orchestration.
+
+**Highlights**
+- Built low-latency voice interactions using WebSockets and Gemini Live
+- Orchestrated ~40 specialized AI agents using Google ADK
+- Implemented dynamic agent routing and response aggregation
+- Developed automated conversation summarization workflows
+- Optimized for real-time contextual interactions
+
+---
+
+### 7. Etypist Courtroom Transcription Intelligence Platform
+AI-powered transcription enhancement platform designed for legal and courtroom environments.
+
+**Highlights**
+- Integrated AWS Transcribe into existing enterprise workflows
+- Developed custom vocabularies and custom language models
+- Implemented speaker diarization for courtroom sessions
+- Improved transcription accuracy for legal terminology
+- Automated transcript generation and processing pipelines
+
+---
+
 ## ⚙️ Technical Skills
 
 **Languages**  
@@ -167,26 +191,3 @@ I focus on building systems that are not just impressive in demos, but practical
 **GitHub**: https://github.com/seshukalyanam  
 **Location**: Raleigh / Morrisville, NC  
 
----
-
-### 6. SIA: Voice-Interactive Multi-Agent AI Platform
-Enterprise-grade voice AI platform combining real-time streaming, transcription, and multi-agent orchestration.
-
-**Highlights**
-- Built low-latency voice interactions using WebSockets and Gemini Live
-- Orchestrated ~40 specialized AI agents using Google ADK
-- Implemented dynamic agent routing and response aggregation
-- Developed automated conversation summarization workflows
-- Optimized for real-time contextual interactions
-
----
-
-### 7. Etypist Courtroom Transcription Intelligence Platform
-AI-powered transcription enhancement platform designed for legal and courtroom environments.
-
-**Highlights**
-- Integrated AWS Transcribe into existing enterprise workflows
-- Developed custom vocabularies and custom language models
-- Implemented speaker diarization for courtroom sessions
-- Improved transcription accuracy for legal terminology
-- Automated transcript generation and processing pipelines
