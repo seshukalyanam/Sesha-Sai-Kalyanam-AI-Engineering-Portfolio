@@ -111,3 +111,62 @@ Built an NLP classification pipeline to detect stance in diversity hiring-relate
 **Business Value**
 - Supports sentiment and stance analysis
 - Useful for HR analytics, social listening, and policy research
+
+
+---
+
+## SIA: Voice-Interactive Multi-Agent AI Platform
+
+**Problem**  
+Organizations need AI assistants capable of handling real-time voice conversations, domain-specific expertise, and complex multi-step reasoning without requiring users to interact through traditional chat interfaces.
+
+**Solution**  
+Developed SIA (Smart Intelligent Assistant), a low-latency, voice-interactive multi-agent AI platform that enables users to communicate naturally through voice while leveraging a network of specialized AI agents. The system streams audio in real time, performs transcription, routes requests to the appropriate expert agents, and generates contextual responses with automated conversation summaries.
+
+**Technical Highlights**
+- Built using Google ADK and Gemini Live APIs
+- Implemented WebSocket-based bidirectional streaming for low-latency communication
+- Orchestrated approximately 40 specialized subject-matter expert agents
+- Dynamic agent routing and delegation based on user intent
+- Real-time speech-to-text and text-to-speech workflows
+- Context management and memory across conversations
+- Automated meeting and conversation summarization
+- Multi-agent response aggregation and reasoning
+- Scalable agent orchestration architecture
+- Latency optimization for near real-time interactions
+
+**Business Value**
+- Enables natural voice-first interactions with AI systems
+- Reduces response times through specialized agent delegation
+- Improves knowledge accessibility across multiple domains
+- Supports enterprise-scale AI assistant deployments
+- Demonstrates advanced agentic AI architecture and orchestration patterns
+
+---
+
+## Etypist Courtroom Transcription Intelligence Platform
+
+**Problem**  
+Courtroom transcription requires extremely high accuracy, speaker attribution, legal terminology recognition, and reliable handling of diverse accents and speaking styles. Generic speech-to-text systems often fail to meet legal documentation standards.
+
+**Solution**  
+Enhanced an existing transcription platform for Etypist by integrating AI-powered speech recognition capabilities using AWS Transcribe and advanced customization features. The solution improved transcription quality, speaker separation, and domain-specific terminology recognition for courtroom proceedings.
+
+**Technical Highlights**
+- Integrated AWS Transcribe into existing enterprise application workflows
+- Developed custom vocabularies for legal and courtroom terminology
+- Implemented custom language models to improve recognition accuracy
+- Configured speaker diarization for multi-speaker courtroom sessions
+- Automated transcript generation and post-processing workflows
+- Built transcription quality validation and review pipelines
+- Improved handling of legal jargon, names, and case-specific terminology
+- Optimized transcription latency and processing efficiency
+- Integrated cloud-native processing and storage workflows
+- Designed scalable architecture for high-volume transcription requests
+
+**Business Value**
+- Improved courtroom transcription accuracy
+- Reduced manual transcription effort and review cycles
+- Enhanced speaker identification and conversation tracking
+- Increased reliability for legal documentation workflows
+- Demonstrated practical application of enterprise speech AI technologies
