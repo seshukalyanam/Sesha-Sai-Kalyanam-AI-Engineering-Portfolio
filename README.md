@@ -52,14 +52,6 @@ My work focuses on turning business problems into practical AI systems: from dat
 
 ---
 
-### Data Engineer - Cancri Technologies Pvt Ltd | India  
-**Mar 2019 – Jun 2020**
-
-- Developed **Azure + Databricks ETL pipelines** for cloud migration.
-- Improved pipeline performance and reduced infrastructure costs.
-- Built dashboards and ML models for **data-driven reporting systems**.
-
----
 
 ## 🧠 What I Build
 

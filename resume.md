@@ -2,7 +2,7 @@
 
 ## Sesha Sai Kalyanam
 
-Senior AI Engineer and Data Engineer with 6+ years of experience designing and deploying production-grade AI, data engineering, and cloud-native systems.
+Senior AI Engineer and Data Engineer with experience in designing and deploying production-grade AI, data engineering, and cloud-native systems.
 
 I specialize in Generative AI, LLM applications, agentic AI systems, RAG pipelines, data engineering workflows, and AI-powered product development.
 
