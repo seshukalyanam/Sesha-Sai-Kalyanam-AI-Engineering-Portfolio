@@ -130,7 +130,6 @@ This project demonstrates production-level RAG thinking. The focus is not only o
 - Separating document indexing from question answering
 - Supporting follow-up questions with memory
 
-### Interview Talking Point
 
 I designed this as a secure multi-tenant RAG architecture. The most important part was not just retrieval accuracy, but making sure one tenant's documents never appeared in another tenant's response.
 
@@ -208,7 +207,6 @@ This project shows understanding of agent architecture, not just prompt engineer
 - State management
 - Clean separation between UI, graph, tools, and model calls
 
-### Interview Talking Point
 
 I used LangGraph to break the AI workflow into nodes. This makes the system easier to debug and extend because each node has one responsibility, and the graph controls how the task moves from one step to another.
 
@@ -280,7 +278,6 @@ This project shows the foundation of RAG: ingestion, chunking, embeddings, retri
 - Keeping indexing separate from querying
 - Improving answer quality through retrieval and optional reranking
 
-### Interview Talking Point
 
 I separated indexing from querying so users do not need to process PDFs every time. Once the FAISS index is built, the user can ask questions directly until the document set changes.
 
@@ -355,7 +352,6 @@ This project demonstrates practical ML engineering beyond text-based AI. It incl
 - Combining custom features with CNN-based image learning
 - Creating a lightweight app for inference
 
-### Interview Talking Point
 
 I treated card grading as both a computer vision and feature engineering problem. Instead of only using a CNN, I added handcrafted features like corners, centering, and edges so the model could learn grading-specific signals.
 
@@ -430,7 +426,6 @@ This project shows real-time AI system design beyond a normal chatbot. It combin
 - Reducing context size through summarization
 - Maintaining useful session memory
 
-### Interview Talking Point
 
 The key challenge was latency. I used streaming transcription, WebSocket communication, and agent routing so the system could respond naturally instead of waiting for a long batch process.
 
@@ -502,7 +497,6 @@ This project shows how AI can be added into an existing workflow rather than bei
 - Integrating cloud transcription with an existing app
 - Producing cleaner output for review and export
 
-### Interview Talking Point
 
 This was not just a speech-to-text integration. I focused on improving courtroom-specific transcription accuracy using AWS Transcribe features like custom vocabulary, custom language models, and diarization, then connected the output back into the existing application.
 
@@ -571,7 +565,6 @@ This project shows practical RAG integration for customer support and enterprise
 - Connecting AI responses to a web/API workflow
 - Returning answers grounded in company knowledge
 
-### Interview Talking Point
 
 I built this as a practical RAG support assistant. The system retrieves the right knowledge first, then lets the LLM generate a response using only that context.
 
@@ -637,7 +630,6 @@ This project demonstrates enterprise security thinking in AI applications. The L
 - Integrating Teams and enterprise identity
 - Separating deterministic access control from model generation
 
-### Interview Talking Point
 
 I designed this so the LLM is not responsible for security by itself. The backend first checks the user's role, then only sends allowed context to the model.
 
@@ -709,7 +701,6 @@ This project demonstrates AI workflow automation using low-code orchestration, d
 - Separating AI extraction from quote calculation
 - Triggering follow-up workflows after quote acceptance
 
-### Interview Talking Point
 
 I used n8n as the orchestration layer and PostgreSQL as the source of truth. The AI handled conversation and extraction, while deterministic code handled quote calculation.
 
@@ -779,7 +770,6 @@ This project shows how RAG can be specialized for construction and engineering w
 - Supporting local and cloud LLM options
 - Creating a Streamlit UI for project teams
 
-### Interview Talking Point
 
 I designed this as a project-aware RAG assistant. The important part is metadata because the system should know which building, document type, and component category the answer is coming from.
 
@@ -848,9 +838,10 @@ This project shows ML experience outside text-based GenAI. It demonstrates signa
 - Considering overlapping audio sources
 - Combining temporal and spectral information
 
-### Interview Talking Point
 
 This project helped me work with non-text AI. I treated bird sound as a signal processing problem first, then used deep learning to classify species from extracted audio features.
+
+NOTE: This is a personal project still under progress. 
 
 ---
 
@@ -917,7 +908,6 @@ This project connects AI with business decision-making. It uses search, NLP, and
 - Explaining recommendations in business language
 - Designing the flow so more data sources can be added later
 
-### Interview Talking Point
 
 I built this as a recommendation system where LLMs explain the match, but the ranking is supported by embeddings, sentiment, and structured criteria.
 
@@ -1061,8 +1051,6 @@ Used in:
 
 ---
 
-# Interview Positioning
-
 ## How I Explain My Integration Experience
 
 I do not treat AI as a standalone chatbot. Most of my work is about connecting AI into real systems.
@@ -1148,7 +1136,7 @@ The main engineering focus is making the AI useful, grounded, secure, and connec
 
 ---
 
-# Final Positioning Statement
+# Final Statement
 
 My AI engineering work is centered on building usable, integrated, and production-minded AI systems.
 
