@@ -1,4 +1,4 @@
-# Sesha Sai Kalyanam — Project & Integration Showcase
+# Sesha Sai Kalyanam - Project & Integration Showcase
 
 ## AI Engineering Portfolio Documentation
 
