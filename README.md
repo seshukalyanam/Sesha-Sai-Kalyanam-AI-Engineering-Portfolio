@@ -12,7 +12,7 @@ My work focuses on turning business problems into practical AI systems: from dat
 
 I created a detailed portfolio-style project and integration write-up here:
 
-**[Read the full Project & Integration Showcase](./PROJECT_SHOWCASE.md)**
+**[Read the full Project & Integration Showcase]([./PROJECT_SHOWCASE.md](https://github.com/seshukalyanam/Sesha-Sai-Kalyanam-AI-Engineering-Portfolio/blob/main/seshukalyanam-projects_showcase/PROJECT_SHOWCASE.md))**
 
 It includes:
 
