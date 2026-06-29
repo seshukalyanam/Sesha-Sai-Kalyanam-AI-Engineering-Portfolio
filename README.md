@@ -8,6 +8,26 @@ My work focuses on turning business problems into practical AI systems: from dat
 
 ---
 
+## Project Showcase
+
+I created a detailed portfolio-style project and integration write-up here:
+
+**[Read the full Project & Integration Showcase](./PROJECT_SHOWCASE.md)**
+
+It includes:
+
+- Architecture diagrams
+- End-to-end system flows
+- Integration maps
+- Problem statements
+- Tech stacks
+- Challenges solved
+- Interview talking points
+- Future improvement plans
+
+---
+
+
 ## 🚀 Professional Experience
 
 ### AI Engineer - NCompas Business Solutions Inc. (Client) | Raleigh, NC  
