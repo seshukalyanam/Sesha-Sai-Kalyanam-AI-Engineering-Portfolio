@@ -72,6 +72,22 @@ It includes:
 
 ---
 
+### Cancri Technologies Private Limited | Data Engineer | India 
+**Mar 2019 - Jun 2020**
+
+- Built optimized Azure/Databricks ETL pipelines to migrate on-prem data to cloud, improving performance and reducing costs.
+
+- Developed ML models for housing-price prediction and KPI dashboards for automated district-level reporting.
+
+---
+
+### Shape AI | Data Analyst Intern | India 
+**Aug 2018 - Dec 2018**
+
+- Collected and cleaned Zillow/Kaggle housing data, built regression models for price prediction, and created Tableau dashboards for insight visualization.
+
+---
+
 
 ## 🧠 What I Build
 
